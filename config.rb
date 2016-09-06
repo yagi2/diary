@@ -11,7 +11,7 @@ activate :blog do |blog|
   # Permalink format
   blog.permalink = '{year}/{month}/{day}/{title}.html'
   # Matcher for blog source files
-  blog.sources = 'posts/{year}-{month}-{day}-{title}.html'
+  blog.sources = 'posts/{year}/{month}-{day}-{title}.html'
   blog.summary_length = 250
   blog.default_extension = '.md'
   blog.tag_template = 'tag.html'
@@ -71,7 +71,7 @@ configure :build do
   activate :asset_hash
 
   # Use relative URLs
-  activate :relative_assets
+  # activate :relative_assets
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
