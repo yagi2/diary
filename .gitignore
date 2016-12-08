@@ -122,3 +122,5 @@ bower.json
 
 /.tmp
 /node_modules
+
+deploy.sh
