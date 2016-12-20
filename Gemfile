@@ -35,3 +35,5 @@ gem 'rack-contrib'
 
 # Heroku New Relic Addon
 gem 'newrelic_rpm'
+
+gem "nokogiri", "~> 1.6.1"
