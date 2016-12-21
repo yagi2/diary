@@ -124,3 +124,5 @@ bower.json
 /node_modules
 
 deploy.sh
+
+/verdor
