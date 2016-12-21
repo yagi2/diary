@@ -1,5 +1,6 @@
 # diary
-[やぎ日記](http://diary.yagi2.com)
+[やぎ日記](http://diary.yagi2.com)  
+[![CircleCI](https://circleci.com/gh/yagi2/diary.svg?style=svg)](https://circleci.com/gh/yagi2/diary)
 
 # template (thanks!)
 [5t111111/middleman-blog-drops-template](https://github.com/5t111111/middleman-blog-drops-template)
