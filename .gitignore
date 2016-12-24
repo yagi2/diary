@@ -126,3 +126,10 @@ bower.json
 deploy.sh
 
 /verdor
+
+Gemfile.lock
+
+/build
+/.sass-cache
+/.cache
+.DS_Store
